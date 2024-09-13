@@ -1,2 +1,1 @@
-# example-website
-Example description
+Example readme
